@@ -1,12 +1,6 @@
 # SISTEM PAKAR DIAGNOSA KERUSAKAN MOBIL
 
 link: https://colab.research.google.com/drive/1mw5cD7xG5oeX_usz0d6jImX16-nqXx5G?usp=sharing
-
-
-### Identitas Kelompok
-*  — NIM
-* **Nama Anggota 2** — NIM
-
 ---
 Tugas akhir ini adalah aplikasi **Sistem Pakar** yang dirancang untuk membantu pemilik kendaraan mendiagnosa kerusakan mobil berdasarkan gejala yang muncul secara mandiri. Sistem ini menggunakan pendekatan **Rule-Based System** dengan metode **Forward Chaining**.
 
