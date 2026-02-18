@@ -1,6 +1,7 @@
 # SISTEM PAKAR DIAGNOSA KERUSAKAN MOBIL
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/muhammadmalvinc-cmd/SISTEM-PAKAR-DIAGNOSA-MOBIL/blob/main/SISTEM_PAKAR_DIAGNOSA_MOBIL.ipynb)
+link: https://colab.research.google.com/drive/1mw5cD7xG5oeX_usz0d6jImX16-nqXx5G?usp=sharing
+
 
 ### Identitas Kelompok
 *  — NIM
